@@ -14,10 +14,10 @@
 
 
 ### currently working on : 
-- (Echoes of the dark castle) A MetroidVania Game 
+- Bus Tracking System
+  
 
 ### currently learning :
-- Flutter
 - Rust
   
 
