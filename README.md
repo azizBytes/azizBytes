@@ -1,6 +1,7 @@
 
 
-![Header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=ABDULAZIZ%20AL-YAHYA&fontSize=50)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=ABDULAZIZ%20AL-YAHYA&fontSize=50)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=azizBytes&layout=compact&theme=vision-friendly-dark)
 
 ### 🛠 Languages and Frameworks
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,nextjs,nodejs,express,cs,dart,flutter,java,py,mysql,r)](https://skillicons.dev)
@@ -17,7 +18,5 @@
 
 ---
 
-### 📊 GitHub Analytics
-![Aziz's Stats](https://github-readme-stats-fast.vercel.app/api?username=azizBytes&show_icons=true&theme=vision-friendly-dark)
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=azizBytes&layout=compact&theme=vision-friendly-dark)
+
