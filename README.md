@@ -18,5 +18,6 @@
 ---
 
 ### 📊 GitHub Analytics
-![azizBytes's Stats](https://github-readme-stats.vercel.app/api?username=azizBytes&show_icons=true&theme=vision-friendly-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizBytes&layout=compact&theme=vision-friendly-dark)
+![Aziz's Stats](https://github-readme-stats-fast.vercel.app/api?username=azizBytes&show_icons=true&theme=vision-friendly-dark)
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=azizBytes&layout=compact&theme=vision-friendly-dark)
