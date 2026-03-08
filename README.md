@@ -1,6 +1,5 @@
 
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=ABDULAZIZ%20AL-YAHYA&fontSize=50)
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=azizBytes&layout=compact&theme=vision-friendly-dark)
 
 ### 🛠 Languages and Frameworks
