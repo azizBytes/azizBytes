@@ -4,8 +4,9 @@
 ### My Skills :
 - Data and Code Analysis
 - FrontEnd Designing and Development
+- Mobile Development 
 - Game Devlopment ( Mostly 2D Platformers with Unity Engine)
-- DBA (sort of)
+- QA/Software Testing
   
 
 
@@ -14,11 +15,13 @@
 
 
 ### currently working on : 
-- Bus Tracking System
+- Footballer + ( React Native app)
+
   
 
 ### currently learning :
 - Rust
+- 
   
 
 
