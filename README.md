@@ -1,41 +1,22 @@
-### Languages and frameworks im working/familiar with :
+# 🚀 Hello, I'm Abdulaziz
+
+![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Software%20Engineer&fontSize=50)
+
+### 🛠 Languages and Frameworks
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,nextjs,nodejs,express,cs,dart,flutter,java,py,mysql,r)](https://skillicons.dev)
 
-### My Skills :
-- Data and Code Analysis
-- FrontEnd Designing and Development
-- Mobile Development 
-- Game Devlopment ( Mostly 2D Platformers with Unity Engine)
-- QA/Software Testing
-  
+### 👨‍💻 My Skills
+* **Engineering:** FrontEnd Design, Mobile Dev (Flutter/React Native), Game Dev (Unity 2D)
+* **Analysis & Quality:** Data/Code Analysis, QA & Software Testing
 
+### 🏗 Currently Working On
+* **Footballer+** (React Native Mobile App)
 
+### 📖 Currently Learning
+[![Learning](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
 
+---
 
-
-
-### currently working on : 
-- Footballer + ( React Native app)
-
-  
-
-### currently learning :
-- [![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
-  
-  
-
-
-<!--
-**LordMcKinzie/LordMcKinzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Analytics
+![LordMcKinzie's Stats](https://github-readme-stats.vercel.app/api?username=LordMcKinzie&show_icons=true&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordMcKinzie&layout=compact&theme=vision-friendly-dark)
