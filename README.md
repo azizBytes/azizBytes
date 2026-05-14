@@ -11,9 +11,10 @@
 
 ### 🏗 Currently Working On
 * **Footballer+** (React Native Mobile App)
+* **Unnamed** (Unity 2d video game)
 
 ### 📖 Currently Learning
-[![Learning](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 ---
 
